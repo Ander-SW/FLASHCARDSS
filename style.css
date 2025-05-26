@@ -9,5 +9,13 @@ body {
     margin: 1rem 1rem
     background-color: aqua;
     height: 20rem;
-
+    flex-grow 1;
+    flex-basis: calc(33% -Grem);
+}
+footer {
+    background-color: black
+    color: white;
+    bottom:0;
+    position:fixed;
+    width: ;
 }
